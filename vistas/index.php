@@ -19,7 +19,17 @@
                         <a class="dropdown-item" href="operadores.html">Operadores</a>
                         <a class="dropdown-item" href="primerJS.html">PrimerJS.html</a>
                         <a class="dropdown-item" href="index.php">INDEX</a>
-                     </div>    
+                     </div>
+                 </div>
+
+
+                <div class="nav-item dropdown">
+                     <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Menú</a>
+                    <div class="dropdown-menu" aria-labelledby="dropdown01">
+                        <a class="dropdown-item" href="login.php">Cerrar Secion</a>
+                        <a class="dropdown-item" href="#">Acerca de</a>
+                        <a class="dropdown-item" href="#">Autor</a>
+                    </div>
                 </div>
             </div>
         </nav>
