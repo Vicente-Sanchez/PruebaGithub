@@ -12,7 +12,7 @@
         <h1>PruebaGithub</h1>
         <p>parrafo de texto. <strong>negrita</strong> y <em>cursiva</em></p>
 
-        <img src="resource/img.jpg" width="400" height="492" alt="shazam">
+        <img src="resource/img.jpg" width="400" height="492" alt="Dogs">
     </body>
 
 </html>
