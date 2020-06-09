@@ -31,6 +31,8 @@
 
         <img src="resource/img.jpg" width="400" height="492" alt="Dogs">
 
+        <a href="/PruebaGithub/vistas/ejemplobootstrap.html">ejemplo boostrap</a>
+
     </body>
     <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
     <script src="https://kit.fontawesome.com/ca583de3be.js" crossorigin="anonymous"></script>
